@@ -1,0 +1,4 @@
+/home/drago/Documents/Prova/Quinta-Feira_Prova/DiogoStoccoWoehl/DiogoStocco/obj/Debug/net8.0/DiogoStocco.GeneratedMSBuildEditorConfig.editorconfig
+/home/drago/Documents/Prova/Quinta-Feira_Prova/DiogoStoccoWoehl/DiogoStocco/obj/Debug/net8.0/DiogoStocco.AssemblyInfoInputs.cache
+/home/drago/Documents/Prova/Quinta-Feira_Prova/DiogoStoccoWoehl/DiogoStocco/obj/Debug/net8.0/DiogoStocco.AssemblyInfo.cs
+/home/drago/Documents/Prova/Quinta-Feira_Prova/DiogoStoccoWoehl/DiogoStocco/obj/Debug/net8.0/DiogoStocco.csproj.CoreCompileInputs.cache
